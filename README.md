@@ -1,5 +1,5 @@
 # SendScriptAsBranquelasWhatApp
-### Script para enviar todo o roteiro do filme As Branquelas 👱🏻‍♀️👱🏻‍♀️ por WhatsApp.
+### Script para enviar todo o roteiro do filme As Branquelas 👱🏻‍♀️👱🏻‍♀️ por WhatsApp para os seus amigos.
 
 Com base em [shrekSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp)
 
