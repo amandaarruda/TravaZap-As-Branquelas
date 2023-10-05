@@ -10,7 +10,7 @@ Com base em [shrekSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsA
 
 ## Como utilizar? 💬
 
-Copie o código disponíve. em *** através do botão de copiar no canto superior direito do texto ou clique em
+Copie o código disponíve. em [WhiteChicksSendScript.js](https://github.com/amandaarruda/SendScriptAsBranquelasWhatsapp/blob/main/WhiteChicksSendScript.js) através do botão de copiar no canto superior direito do texto ou clique em
 ``` Raw > ctrl A > ctrl C > ctrl V ```.
 
 Abra o WhatsApp Web e aperte simultâneamente as teclas ```ctrl + shift + J ``` ou clique com o botão direito e clique em Inspecionar. 
